@@ -70,17 +70,4 @@ EKS cluster + IAM setup complete ✅
 ### 6. (Optional) Monitoring
 * Prometheus + Grafana + Loki via Helm
 
-### 📁 Folder Structure
-navis-ai-backend/
-├── index.js
-├── Dockerfile
-├── package.json
-├── k8s/
-│   ├── deployment.yaml
-│   ├── service.yaml
-│   └── ingress.yaml
-├── terraform/
-│   └── main.tf
-└── .github/
-    └── workflows/
-        └── deploy.yml
+

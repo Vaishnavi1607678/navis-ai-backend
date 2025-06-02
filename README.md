@@ -72,12 +72,12 @@ EKS cluster + IAM setup complete ✅
 
 📁 Folder Structure
 navis-ai-backend/
-├── index.js
-├── Dockerfile
-├── k8s/
-│   ├── deployment.yaml
-│   ├── service.yaml
-│   └── ingress.yaml
-├── terraform/
-│   └── main.tf
-└── .github/workflows/deploy.yml
+├──index.js
+├──Dockerfile
+├──k8s/
+│   ├──deployment.yaml
+│   ├──service.yaml
+│   └──ingress.yaml
+├──terraform/
+│   └──main.tf
+└──.github/workflows/deploy.yml

@@ -67,7 +67,7 @@ terraform apply
 Output:
 EKS cluster + IAM setup complete ✅
 
-### 6. (Optional) Monitoring
+### 6. Monitoring
 * Prometheus + Grafana + Loki via Helm
 
 
